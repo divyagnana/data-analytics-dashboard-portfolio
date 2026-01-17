@@ -25,5 +25,5 @@ This repository showcases my analytics work, focusing on:
 - Tracks Sales, Expenses, Net Profit, Profit Margin
 - Includes budget variance and trend analysis  
 
-🔗 [View Dashboard](.01-expense-profit-analysis)
+🔗 [View Dashboard](https://github.com/divyagnana/data-analytics-dashboard-portfolio/tree/main/01-expense-profit-analysis)
 
