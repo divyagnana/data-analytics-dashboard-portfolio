@@ -1,4 +1,5 @@
 # Expense & Profit Analysis Dashboard
+![Profit Analysis] (https://github.com/divyagnana/data-analytics-dashboard-portfolio/blob/main/01-expense-profit-analysis/Profit_Analysis.png)
 
 ## Business Objective
 To provide leadership with visibility into sales, expenses, and profitability trends.
