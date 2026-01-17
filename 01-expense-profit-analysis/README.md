@@ -1,23 +1,36 @@
 # Expense & Profit Analysis Dashboard
-![Profit Analysis] (https://github.com/divyagnana/data-analytics-dashboard-portfolio/blob/main/01-expense-profit-analysis/Profit_Analysis.png)
 
-## Business Objective
-To provide leadership with visibility into sales, expenses, and profitability trends.
+## 🎯 Business Objective
+To provide leadership with a clear view of sales performance, expenses, and profitability in order to support data-driven financial decisions.
 
-## KPIs Tracked
+---
+
+## 📊 Key KPIs Tracked
 - Total Sales
 - Total Expenses
 - Net Profit
 - Profit Margin %
 - Budget Variance
 
-## Key Insights
-- Analyzed $118.73M in total sales
-- Identified $9.21M expense variance affecting profit
-- High-margin segments clearly highlighted
-- Interactive filters for Year, Segment, and Product
+---
 
-## Tools Used
-- Power BI, Excel, JSON
+## 🔍 Key Insights
+- Analyzed **$118.73M in total sales** across business segments
+- Identified **$9.21M budget variance** impacting profitability
+- Highlighted high-margin and low-margin segments
+- Enabled quick comparison across Year, Segment, and Product
+
+---
+
+## 🛠 Tools Used
+- Power BI
 - DAX
-- Financial Modeling
+- Financial Data Modeling
+
+---
+
+## 📷 Dashboard Preview
+
+### Profit Analysis
+![Profit Analysis](./Profit_Analysis.png)
+
